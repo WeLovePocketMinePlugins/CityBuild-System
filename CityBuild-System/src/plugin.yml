@@ -1,0 +1,50 @@
+name: CityBuild-Core
+main: net.zerobuddys.core.main.Main
+version: 1.2.3
+api: ["1.0.8"]
+author: ZeroBuddysYT
+commands:
+  cbdev:
+    description: §6Der CityBuild Developer Command §7| §aCityBuild-Core
+    usage: /cbdev
+    aliases: [citybuild-dev, cd]
+  cbrang:
+    description: §6Der CityBuild Rang Command §7| §aCityBuild-Core
+    usage: /cbrang
+    aliases: [citybuildrang, rang, cr]
+  cbclear:
+    description: §6Der CityBuild Clear Command §7| §aCityBuild-Core
+    usage: /cbclear
+    aliases: [citybuildclear, clear, cc]
+  cbping:
+    description: §6Der CityBuild Ping Command §7| §aCityBuild-Core
+    usage: /cbping
+    aliases: [citybuildping, cp, ping]
+  cbmode:
+    description: §6Der CityBuild Mode Command §7| §aCityBuild-Core
+    usage: /cbmode
+    aliases: [citybuildmode, cm, mode]
+  cbsystem:
+    description: §6Der CityBuild System Command §7| §aCityBuilde-Core
+    usage: /cbsystem
+    aliases: [citybuildsystem, cs, system]
+  cbheal:
+    description: §6Der CityBuild Heal Command §7| §aCityBuild-Core
+    usage: /cbheal
+    aliases: [citybuildheal, ch, heal]
+  cbfeed:
+    description: §6Der CityBuild Feed Command §7| §aCityBuild-Core
+    usage: /cbfeed
+    aliases: [citybuildfeed, cf, hunger]
+  cbfeedback:
+    description: §6Der CityBuild Feedback Command §7| §aCityBuild-Core
+    usage: /cbfeedback
+    aliases: [citybuildfeedback, cbfeed, feedback]
+  cbhelp:
+    description: §6Der CityBuild Help Command §7| §aCityBuild-Core
+    usage: /cbhelp
+    aliases: [citybuildhelp, chelp, help]
+  allsystems:
+    description: §6Der AllSystem Help Command §7| §aCityBuild-Core
+    usage: /allsystems
+    aliases: [allsystems, allsystem, systems]
